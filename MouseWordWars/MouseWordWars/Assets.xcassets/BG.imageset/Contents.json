@@ -1,0 +1,21 @@
+{
+  "images" : [
+    {
+      "filename" : "ฟรี  Cloudscape, เมฆ, แสงแดด ภาพพื้นหลัง ท้องฟ้า สภาพอากาศ แสง เมฆ พื้นหลัง ภาพพื้นหลัง PNG และเวก.jpeg",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
