@@ -2,11 +2,14 @@
 //  AppDelegate.swift
 //  MouseWordWars
 //
-//  Created by jin fu on 2024/12/20.
+//  Created by Christmas Clash: Mouse Word Wars on 2024/12/20.
 //
 
 import UIKit
 import IQKeyboardManagerSwift
+import FirebaseCore
+import FirebaseMessaging
+import AppsFlyerLib
 
 @main
 class AppDelegate: UIResponder, UIApplicationDelegate {
@@ -17,7 +20,11 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Override point for customization after application launch.
         
         IQKeyboardManager.shared.isEnabled = true
-        
+        let appsFlyer = AppsFlyerLib.shared()
+        appsFlyer.appsFlyerDevKey = UIViewController.christmasAppsFlyerDevKey()
+        appsFlyer.appleAppID = "6739698085"
+        appsFlyer.waitForATTUserAuthorization(timeoutInterval: 51)
+        appsFlyer.delegate = self
         return true
     }
 
@@ -35,6 +42,19 @@ class AppDelegate: UIResponder, UIApplicationDelegate {
         // Use this method to release any resources that were specific to the discarded scenes, as they will not return.
     }
 
-
+    func application(_ application: UIApplication, didRegisterForRemoteNotificationsWithDeviceToken deviceToken: Data) {
+        Messaging.messaging().apnsToken = deviceToken
+    }
 }
 
+extension AppDelegate :AppsFlyerLibDelegate{
+    
+    /// AppsFlyerLibDelegate
+    func onConversionDataSuccess(_ conversionInfo: [AnyHashable : Any]) {
+        print("success appsflyer")
+    }
+    
+    func onConversionDataFail(_ error: Error) {
+        print("error appsflyer")
+    }
+}

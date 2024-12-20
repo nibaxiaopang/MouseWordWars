@@ -1,0 +1,63 @@
+
+/* Class = "UILabel"; text = "SCORE : 0"; ObjectID = "1Qy-S0-cLY"; */
+"1Qy-S0-cLY.text" = "SCORE : 0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "1jE-Q7-dX1"; */
+"1jE-Q7-dX1.text" = "0";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "1tq-6r-mZN"; */
+"1tq-6r-mZN.text" = "0";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "3Iv-Te-wBN"; */
+"3Iv-Te-wBN.text" = "Label";
+
+/* Class = "UITextView"; text = "About Us - Christmas Clash: Mouse Word Wars\n\nWelcome to Christmas Clash: Mouse Word Wars, your ultimate holiday gaming destination! 🎄✨ We are passionate about creating interactive, fun, and engaging games to spread joy and excitement during the festive season. Our mission is to deliver high-quality, family-friendly games that bring people together and spark moments of happiness.Christmas Clash: Mouse Word Wars, we’ve combined the magic of Christmas with exciting gameplay mechanics to offer a unique and captivating experience. Dive into the enchanting world of:\n\t1.\tClash and Match Fun:\n\t•\tTest your skills in the Clash Collection Game, where you match and swap tiles to score points while enjoying the festive graphics.\n\t2.\tSearch and Discover:\n\t•\tEmbark on a delightful treasure hunt in the Search Gift Game as you locate hidden images in a winter wonderland setting.\n\nWhat We Stand For\n\t•\tCreativity and Innovation:\n\t•\tWe aim to create imaginative games that captivate players of all ages.\n\t•\tQuality Experience:\n\t•\tWith seamless gameplay, stunning visuals, and smooth transitions, we focus on providing a top-notch experience.\n\t•\tBringing Families Together:\n\t•\tWhether you’re playing solo or with loved ones, our games are designed to bring people closer and share festive cheer.\n\nFeatuChristmas Clash: Mouse Word Wars\n\t•\t🎮 Two Exciting Game Modes:\n\t•\tClash Collection: Match and clear the grid while keeping track of your high score.\n\t•\tSearch Gift: Challenge your observation skills by finding hidden treasures in the tree.\n\t•\t🏆 Highest Score Tracking:\n\t•\tCompete with yourself to break records and achieve the ultimate high score.\n\t•\t🎅 Christmas-Themed Gameplay:\n\t•\tImmerse yourself in a festive atmosphere with beautifully designed holiday graphics and sounds.\n\t•\t⭐ User-Friendly Interface:\n\t•\tEnjoy intuitive controls and easy-to-learn mechanics for players of all ages."; ObjectID = "BCd-AA-Rdw"; */
+"BCd-AA-Rdw.text" = "About Us - Christmas Clash: Mouse Word Wars\n\nWelcome to Christmas Clash: Mouse Word Wars, your ultimate holiday gaming destination! 🎄✨ We are passionate about creating interactive, fun, and engaging games to spread joy and excitement during the festive season. Our mission is to deliver high-quality, family-friendly games that bring people together and spark moments of happiness.Christmas Clash: Mouse Word Wars, we’ve combined the magic of Christmas with exciting gameplay mechanics to offer a unique and captivating experience. Dive into the enchanting world of:\n\t1.\tClash and Match Fun:\n\t•\tTest your skills in the Clash Collection Game, where you match and swap tiles to score points while enjoying the festive graphics.\n\t2.\tSearch and Discover:\n\t•\tEmbark on a delightful treasure hunt in the Search Gift Game as you locate hidden images in a winter wonderland setting.\n\nWhat We Stand For\n\t•\tCreativity and Innovation:\n\t•\tWe aim to create imaginative games that captivate players of all ages.\n\t•\tQuality Experience:\n\t•\tWith seamless gameplay, stunning visuals, and smooth transitions, we focus on providing a top-notch experience.\n\t•\tBringing Families Together:\n\t•\tWhether you’re playing solo or with loved ones, our games are designed to bring people closer and share festive cheer.\n\nFeatuChristmas Clash: Mouse Word Wars\n\t•\t🎮 Two Exciting Game Modes:\n\t•\tClash Collection: Match and clear the grid while keeping track of your high score.\n\t•\tSearch Gift: Challenge your observation skills by finding hidden treasures in the tree.\n\t•\t🏆 Highest Score Tracking:\n\t•\tCompete with yourself to break records and achieve the ultimate high score.\n\t•\t🎅 Christmas-Themed Gameplay:\n\t•\tImmerse yourself in a festive atmosphere with beautifully designed holiday graphics and sounds.\n\t•\t⭐ User-Friendly Interface:\n\t•\tEnjoy intuitive controls and easy-to-learn mechanics for players of all ages.";
+
+/* Class = "UIButton"; normalTitle = "ABOUT US"; ObjectID = "DUw-aM-Q7u"; */
+"DUw-aM-Q7u.normalTitle" = "ABOUT US";
+
+/* Class = "UILabel"; text = "Clash Word Wars"; ObjectID = "LR2-Iv-Xt4"; */
+"LR2-Iv-Xt4.text" = "Clash Word Wars";
+
+/* Class = "UIButton"; normalTitle = "START"; ObjectID = "LTr-WA-VDY"; */
+"LTr-WA-VDY.normalTitle" = "START";
+
+/* Class = "UILabel"; text = "Feedback"; ObjectID = "O8Y-Uf-cAq"; */
+"O8Y-Uf-cAq.text" = "Feedback";
+
+/* Class = "UIButton"; normalTitle = "SEARCH GIFT AT TREE"; ObjectID = "VgX-E1-jL6"; */
+"VgX-E1-jL6.normalTitle" = "SEARCH GIFT AT TREE";
+
+/* Class = "UILabel"; text = "About Us"; ObjectID = "XXg-gA-0YG"; */
+"XXg-gA-0YG.text" = "About Us";
+
+/* Class = "UIButton"; normalTitle = "PRIVACY POLICY"; ObjectID = "dDT-gM-KKW"; */
+"dDT-gM-KKW.normalTitle" = "PRIVACY POLICY";
+
+/* Class = "UIButton"; normalTitle = "MATCH FOR TWIST"; ObjectID = "dfc-yv-Osr"; */
+"dfc-yv-Osr.normalTitle" = "MATCH FOR TWIST";
+
+/* Class = "UITextView"; text = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda."; ObjectID = "eqB-uL-NOg"; */
+"eqB-uL-NOg.text" = "Lorem ipsum dolor sit er elit lamet, consectetaur cillium adipisicing pecu, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Nam liber te conscient to factor tum poen legum odioque civiuda.";
+
+/* Class = "UIButton"; normalTitle = "FEEDBACK"; ObjectID = "fP7-qj-N0V"; */
+"fP7-qj-N0V.normalTitle" = "FEEDBACK";
+
+/* Class = "UILabel"; text = "SETTING"; ObjectID = "gPH-mf-HzQ"; */
+"gPH-mf-HzQ.text" = "SETTING";
+
+/* Class = "UILabel"; text = "THESE IMAGE MATCH"; ObjectID = "kZf-wW-SQq"; */
+"kZf-wW-SQq.text" = "THESE IMAGE MATCH";
+
+/* Class = "UILabel"; text = "0"; ObjectID = "sId-27-pCG"; */
+"sId-27-pCG.text" = "0";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "sjo-zE-z8r"; */
+"sjo-zE-z8r.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "wFo-02-xsW"; */
+"wFo-02-xsW.text" = "Label";
+
+/* Class = "UILabel"; text = "BONUS : 52"; ObjectID = "y22-qe-dei"; */
+"y22-qe-dei.text" = "BONUS : 52";

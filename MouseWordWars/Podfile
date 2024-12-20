@@ -7,4 +7,6 @@ target 'MouseWordWars' do
 
   # Pods for MouseWordWars
   pod 'IQKeyboardManagerSwift'
+  pod 'Firebase/Messaging'
+  pod 'AppsFlyerFramework'
 end

@@ -2,7 +2,7 @@
 //  CustomCornerView.swift
 //  MouseWordWars
 //
-//  Created by jin fu on 2024/12/20.
+//  Created by Christmas Clash: Mouse Word Wars on 2024/12/20.
 //
 
 import UIKit
