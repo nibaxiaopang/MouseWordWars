@@ -237,7 +237,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = MouseWordWars/MouseWordWars.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MouseWordWars/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Christmas Clash: Mouse Word Wars";
@@ -274,7 +274,7 @@
 				CLANG_ENABLE_MODULES = YES;
 				CODE_SIGN_ENTITLEMENTS = MouseWordWars/MouseWordWars.entitlements;
 				CODE_SIGN_STYLE = Automatic;
-				CURRENT_PROJECT_VERSION = 2;
+				CURRENT_PROJECT_VERSION = 3;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = MouseWordWars/Info.plist;
 				INFOPLIST_KEY_CFBundleDisplayName = "Christmas Clash: Mouse Word Wars";
